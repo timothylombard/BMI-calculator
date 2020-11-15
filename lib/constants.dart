@@ -6,8 +6,8 @@ const kLabelTextStyle = TextStyle(
 );
 
 const kHeavyLabelTextStyle = TextStyle(
-  fontSize: 50.0,
-  fontWeight: FontWeight.w900,
+  fontSize: 45.0,
+  fontWeight: FontWeight.w800,
 );
 
 const kLargeButtonTextStyle =  TextStyle(
