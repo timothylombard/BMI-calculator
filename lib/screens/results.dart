@@ -28,7 +28,7 @@ class ResultsPage extends StatelessWidget {
                 padding: EdgeInsets.all(18.0),
                 alignment: Alignment.bottomLeft,
                 child: Text(
-                  'Your Result',
+                  'Your BMI Result',
                   style: kTitleTextSize,
                 )
               )),

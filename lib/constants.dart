@@ -16,7 +16,7 @@ fontWeight: FontWeight.bold,
 );
 
 const kTitleTextSize = TextStyle(
-  fontSize: 50.0,
+  fontSize: 35.0,
   fontWeight: FontWeight.bold,
 );
 
